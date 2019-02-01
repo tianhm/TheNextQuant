@@ -17,7 +17,7 @@ TheNextQuant - 异步事件驱动的量化交易/做市系统
 ### 安装
 使用 `pip` 可以简单方便安装:
 ```text
-pip install -e git+https://github.com/Demon-Hunter/QuantX.git#egg=thenextquant
+pip install -e git+https://github.com/Demon-Hunter/TheNextQuant.git#egg=thenextquant
 ```
 
 or
