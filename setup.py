@@ -10,7 +10,7 @@ setup(
               "quant.utils",
               ],
     description="Quant Trader Framework",
-    url="https://github.com/Demon-Hunter/QuantX",
+    url="https://github.com/Demon-Hunter/TheNextQuant",
     author="huangtao",
     author_email="huangtao@ifclover.com",
     license="MIT",
