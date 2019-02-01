@@ -1,0 +1,14 @@
+{
+    "HEARTBEAT": {
+        "interval": 1
+    },
+    "PLATFORMS": {
+        "binance": {
+            "account": "abc123@163.com",
+            "access_key": "ACCESS KEY",
+            "secret_key": "SECRET KEY"
+        }
+    },
+    "strategy": "my_test_strategy",
+    "symbol": "ETH/BTC"
+}
